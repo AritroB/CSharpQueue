@@ -1,0 +1,15 @@
+/Users/aritrobasu/Projects/Queue/Queue/bin/Debug/net7.0/Queue
+/Users/aritrobasu/Projects/Queue/Queue/bin/Debug/net7.0/Queue.deps.json
+/Users/aritrobasu/Projects/Queue/Queue/bin/Debug/net7.0/Queue.runtimeconfig.json
+/Users/aritrobasu/Projects/Queue/Queue/bin/Debug/net7.0/Queue.dll
+/Users/aritrobasu/Projects/Queue/Queue/bin/Debug/net7.0/Queue.pdb
+/Users/aritrobasu/Projects/Queue/Queue/obj/Debug/net7.0/Queue.csproj.AssemblyReference.cache
+/Users/aritrobasu/Projects/Queue/Queue/obj/Debug/net7.0/Queue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aritrobasu/Projects/Queue/Queue/obj/Debug/net7.0/Queue.AssemblyInfoInputs.cache
+/Users/aritrobasu/Projects/Queue/Queue/obj/Debug/net7.0/Queue.AssemblyInfo.cs
+/Users/aritrobasu/Projects/Queue/Queue/obj/Debug/net7.0/Queue.csproj.CoreCompileInputs.cache
+/Users/aritrobasu/Projects/Queue/Queue/obj/Debug/net7.0/Queue.dll
+/Users/aritrobasu/Projects/Queue/Queue/obj/Debug/net7.0/refint/Queue.dll
+/Users/aritrobasu/Projects/Queue/Queue/obj/Debug/net7.0/Queue.pdb
+/Users/aritrobasu/Projects/Queue/Queue/obj/Debug/net7.0/Queue.genruntimeconfig.cache
+/Users/aritrobasu/Projects/Queue/Queue/obj/Debug/net7.0/ref/Queue.dll
