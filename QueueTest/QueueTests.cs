@@ -50,6 +50,19 @@ public class QueueTests
     }
 
     // test that you get an exception if you DQ an empty Q
+    [Fact]
+    public void DeQueueingEmptyQueue_ThrowsException()
+    {
+        //Arrange
+        CustomQueue<String> customQueue = new CustomQueue<string>();
+
+        //Act
+        var ex = Assert.Throws<InvalidOperationException>(() => customQueue.Dequeue());
+
+     
+        //Assert
+        Assert.Equal("Queue is empty", ex.Message);
+    }
 
     // test that you can't add a non string value after adding a string
     /*[Fact]
